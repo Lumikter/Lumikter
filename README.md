@@ -1,5 +1,7 @@
 <h1 align="center">I'm <a href="https://github.com/Lumikter">Luis Miguel<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
+![Banner de Luis Miguel] ()
+<Br>
 <h1 align="center">About Me! 😎</h1>
 <Br>
   
