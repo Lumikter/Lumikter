@@ -61,9 +61,10 @@
 <Br>
 <h1 align="center">My Projects! 📎</h1>
 <Br>
-🤓 Juegos Olimpicos Paris 2024 : Dashboard in Power Bi focused on the Olimpics Games, analyzing the distribution of medals, performance of countries and participation of atlhetes by age and gender, among others factors.
-
-
+<p align="center">
+  <a href="https://github.com/Lumikter/Juegos-Olimpicos-Paris2024" target="_blank">
+    <img src="https://github.com/Lumikter/Juegos-Olimpicos-Paris2024/blob/main/OlimpicGamesParis2024.PNG" height="200"/>
+  
 <Br>
 <hr>
 <Br>
