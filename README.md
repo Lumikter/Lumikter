@@ -54,8 +54,8 @@
 <h1 align="center">Certifications! 🏆</h1>
 <Br>
 <p align="center">
-🏅 Data Analytics 
-🏅 Data Analyst Fundamentals
+  <img src="https://github.com/Lumikter/Lumikter/blob/main/17.%20BOOTCAMP%20DATA%20ANALYST-1.png" height="300"/>
+  <img src="https://github.com/Lumikter/Lumikter/blob/main/16.%20CURSO%20DATA%20ANALYTICS%20LUIS%20MIGUEL%20LOPEZ%20TERRONES-1.png" height="300"/>
 <Br>
 <hr>
 <Br>
