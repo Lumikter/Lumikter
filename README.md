@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Lumikter/Lumikter/blob/main/banner_lumikter.png" height="450"/>
+  <img src="https://github.com/Lumikter/Lumikter/blob/main/banner_lumikter.png" height="400"/>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/luismiguel-lote" target="blank"><img align="center" src="https://img.shields.io/badge/Luis Miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:lmiguel.lt@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/lmiguel.lt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Lumikter" target="blank"><img align="center" src="https://img.shields.io/badge/Lumikter-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
