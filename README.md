@@ -66,6 +66,8 @@
     <img src="https://github.com/Lumikter/Juegos-Olimpicos-Paris2024/blob/main/OlimpicGamesParis2024.PNG" height="200"/>
   <a href="https://github.com/Lumikter/Rugby_Performance_Main_Rivalries/tree/main" target="_blank">
     <img src="https://github.com/Lumikter/Rugby_Performance_Main_Rivalries/blob/main/RugbyAnalysis.PNG" height="200"/>
+  <a href="https://github.com/Lumikter/My_Spotify_Listening_Data_Analysis" target="_blank">
+    <img src="https://github.com/Lumikter/My_Spotify_Listening_Data_Analysis/blob/main/My%20Spotify%20Listening%20Data%20Analysis.png" height="200"/>
 <Br>
 <hr>
 <Br>
